@@ -1,0 +1,10 @@
+C:\Users\Ender\source\repos\DTISKisiEkleme\DTISKisiEkleme\bin\Debug\DTISKisiEkleme.exe.config
+C:\Users\Ender\source\repos\DTISKisiEkleme\DTISKisiEkleme\bin\Debug\DTISKisiEkleme.exe
+C:\Users\Ender\source\repos\DTISKisiEkleme\DTISKisiEkleme\bin\Debug\DTISKisiEkleme.pdb
+C:\Users\Ender\source\repos\DTISKisiEkleme\DTISKisiEkleme\obj\Debug\DTISKisiEkleme.csprojAssemblyReference.cache
+C:\Users\Ender\source\repos\DTISKisiEkleme\DTISKisiEkleme\obj\Debug\DTISKisiEkleme.Form1.resources
+C:\Users\Ender\source\repos\DTISKisiEkleme\DTISKisiEkleme\obj\Debug\DTISKisiEkleme.Properties.Resources.resources
+C:\Users\Ender\source\repos\DTISKisiEkleme\DTISKisiEkleme\obj\Debug\DTISKisiEkleme.csproj.GenerateResource.cache
+C:\Users\Ender\source\repos\DTISKisiEkleme\DTISKisiEkleme\obj\Debug\DTISKisiEkleme.csproj.CoreCompileInputs.cache
+C:\Users\Ender\source\repos\DTISKisiEkleme\DTISKisiEkleme\obj\Debug\DTISKisiEkleme.exe
+C:\Users\Ender\source\repos\DTISKisiEkleme\DTISKisiEkleme\obj\Debug\DTISKisiEkleme.pdb
